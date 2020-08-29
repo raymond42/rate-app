@@ -1,0 +1,14 @@
+[
+  {
+    "message": "Checking up on you",
+    "sentTo": "Patrick"
+  },
+  {
+    "message": "I am checking the notification for the second time",
+    "sentTo": "Raymond"
+  },
+  {
+    "message": "I am checking the notification for third time",
+    "sentTo": "David"
+  }
+]
